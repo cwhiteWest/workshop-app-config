@@ -13,4 +13,4 @@ management:
 greeting:
   displayFortune: true # <----Change to true
 
-quoteServiceURL: http://quote-service-dev.cfapps.io/quote
+quoteServiceURL: http://quote-service-qa.apps.pcf.cloud/quote
